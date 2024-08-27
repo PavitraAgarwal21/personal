@@ -57,7 +57,7 @@ const Socials = () => {
 
 			<div className="social">
 				<a
-					href={INFO.socials.instagram}
+					href={INFO.socials.telegram}
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -67,7 +67,7 @@ const Socials = () => {
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Follow on Instagram</div>
+					<div className="social-text">Follow on telegram</div>
 				</a>
 			</div>
 
